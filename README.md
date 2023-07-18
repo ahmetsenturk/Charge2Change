@@ -5,7 +5,8 @@ Charge2Change is a SwiftUI-based project that aims to incentivize Electric Vehic
 The primary motivation behind Charge2Change is to explore innovative ways to encourage EV owners to embrace and participate in V2G programs. While the concept of V2G holds immense potential in terms of sustainable energy management, the lack of emphasis on incentivization has been a significant hurdle in its adoption. Charge2Change seeks to bridge this gap by introducing attractive incentives and rewards for EV owners, creating a win-win scenario for both the owners and the energy grid. 🔌💰
 
 ## How to Run/Build the Project 🏃‍♂️
-To run or build the Charge2Change project, you will need a Macbook with Xcode installed. If you don't have Xcode installed, you can download it from the Mac App Store for free.
+To run or build the Charge2Change project, you will need a Macbook with **Xcode** installed. If you don't have Xcode installed, you can download it from the Mac App Store for free.
+![Xcode_14_icon](https://github.com/ahmetsenturk/Charge2Change/assets/35606355/c8a9609f-78f3-49fb-aa35-ecb7b5bdd7fe)
 
 Follow these steps:
 
@@ -14,12 +15,15 @@ Follow these steps:
 git clone https://github.com/ahmetsenturk/Charge2Change.git
 ```
   You can also simply go to the [repository]([https://github.com/ahmetsenturk/Charge2Change.git](https://github.com/ahmetsenturk/Charge2Change)), click on the green **Code** button, and then select **Download ZIP**, this will automatically start the download. After unzipping the folder, you are good to go.
+<img width="1027" alt="Screenshot 2023-07-18 at 21 39 20" src="https://github.com/ahmetsenturk/Charge2Change/assets/35606355/772a44c1-1160-43e7-bb1c-74f03456c6dc">
 
 2. Open the project in Xcode by double-clicking on the **Charge2Change.xcodeproj** file.
+<img width="477" alt="Screenshot 2023-07-18 at 21 41 10" src="https://github.com/ahmetsenturk/Charge2Change/assets/35606355/e96084cd-a12b-40c8-80b4-bf9afdaa9ba7">
 
 3. Ensure that you have the minimum required iOS version (16.4) installed on your simulator or device.
 
 4. Build and run the project on your preferred simulator or device by selecting the corresponding target and clicking the "Run" button in Xcode.
+<img width="447" alt="Screenshot 2023-07-18 at 21 41 51" src="https://github.com/ahmetsenturk/Charge2Change/assets/35606355/ab354d76-64c7-479b-a791-850efc78fcbe">
 
 ## Swift and SwiftUI 📚
 Swift is a powerful and intuitive programming language developed by Apple. It is designed to be fast, safe, and expressive, making it an excellent choice for iOS, macOS, watchOS, and tvOS app development. SwiftUI is a declarative user interface framework introduced by Apple, enabling developers to build UIs using a simple and expressive syntax.
