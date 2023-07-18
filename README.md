@@ -6,7 +6,9 @@ The primary motivation behind Charge2Change is to explore innovative ways to enc
 
 ## How to Run/Build the Project 🏃‍♂️
 To run or build the Charge2Change project, you will need a Macbook with **Xcode** installed. If you don't have Xcode installed, you can download it from the Mac App Store for free.
+
 ![Xcode_14_icon](https://github.com/ahmetsenturk/Charge2Change/assets/35606355/c8a9609f-78f3-49fb-aa35-ecb7b5bdd7fe)
+
 
 Follow these steps:
 
