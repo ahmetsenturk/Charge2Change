@@ -13,7 +13,7 @@ Follow these steps:
 ``` shell
 git clone https://github.com/ahmetsenturk/Charge2Change.git
 ```
-  You can also simply go to the [repository](https://github.com/ahmetsenturk/Charge2Change.git), click on the green **Code** button, and then select **Download ZIP**, this will automatically start the download. After unzipping the folder, you are good to go.
+  You can also simply go to the [repository]([https://github.com/ahmetsenturk/Charge2Change.git](https://github.com/ahmetsenturk/Charge2Change)), click on the green **Code** button, and then select **Download ZIP**, this will automatically start the download. After unzipping the folder, you are good to go.
 
 2. Open the project in Xcode by double-clicking on the **Charge2Change.xcodeproj** file.
 
