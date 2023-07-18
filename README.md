@@ -15,7 +15,8 @@ Follow these steps:
 git clone https://github.com/ahmetsenturk/Charge2Change.git
 ```
   You can also simply go to the [repository]([https://github.com/ahmetsenturk/Charge2Change.git](https://github.com/ahmetsenturk/Charge2Change)), click on the green **Code** button, and then select **Download ZIP**, this will automatically start the download. After unzipping the folder, you are good to go.
-<img width="1027" alt="Screenshot 2023-07-18 at 21 39 20" src="https://github.com/ahmetsenturk/Charge2Change/assets/35606355/772a44c1-1160-43e7-bb1c-74f03456c6dc">
+<img width="1027" alt="Screenshot 2023-07-18 at 21 39 20" src="https://github.com/ahmetsenturk/Charge2Change/assets/35606355/9c3d1f9a-1b34-4646-be09-1648f377398e">
+
 
 2. Open the project in Xcode by double-clicking on the **Charge2Change.xcodeproj** file.
 <img width="477" alt="Screenshot 2023-07-18 at 21 41 10" src="https://github.com/ahmetsenturk/Charge2Change/assets/35606355/e96084cd-a12b-40c8-80b4-bf9afdaa9ba7">
