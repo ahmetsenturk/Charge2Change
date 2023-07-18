@@ -9,11 +9,13 @@ To run or build the Charge2Change project, you will need a Macbook with Xcode in
 
 Follow these steps:
 
-1. Clone the project repository to your local machine using the following command:
+1. Clone the project repository to your local machine using the following command on your terminal:
 ``` shell
 git clone https://github.com/ahmetsenturk/Charge2Change.git
 ```
-2. Open the project in Xcode by double-clicking on the Charge2Change.xcodeproj file.
+  You can also simply go to the [repository](https://github.com/ahmetsenturk/Charge2Change.git), click on the green **Code** button, and then select **Download ZIP**, this will automatically start the download. After unzipping the folder, you are good to go.
+
+2. Open the project in Xcode by double-clicking on the **Charge2Change.xcodeproj** file.
 
 3. Ensure that you have the minimum required iOS version (16.4) installed on your simulator or device.
 
@@ -27,11 +29,11 @@ In Charge2Change, we leverage the capabilities of Swift and SwiftUI to create an
 ## MVVM Architecture 🏛️
 Charge2Change follows the MVVM (Model-View-ViewModel) architectural pattern. This pattern helps us to separate the presentation logic from the business logic, making the codebase more maintainable and scalable.
 
-Model: Represents the data and business logic of the app. It contains the underlying data structures and interacts with data sources such as APIs or databases.
+**Model**: Represents the data and business logic of the app. It contains the underlying data structures and interacts with data sources such as APIs or databases.
 
-View: Represents the user interface of the app. It is responsible for displaying the data to the user and collecting user input.
+**View:** Represents the user interface of the app. It is responsible for displaying the data to the user and collecting user input.
 
-ViewModel: Acts as a mediator between the Model and the View. It contains the presentation logic and exposes the data from the Model to the View. It also handles user interactions and updates the Model accordingly.
+**ViewModel:** Acts as a mediator between the Model and the View. It contains the presentation logic and exposes the data from the Model to the View. It also handles user interactions and updates the Model accordingly.
 
 By adopting the MVVM pattern, Charge2Change achieves a clean separation of concerns, allowing for easier testing, code reusability, and a more organized project structure.
 
