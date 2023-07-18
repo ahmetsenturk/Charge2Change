@@ -11,6 +11,23 @@
 		7E9D5A6A2A66F5AA0045745A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D5A692A66F5AA0045745A /* ContentView.swift */; };
 		7E9D5A6C2A66F5AA0045745A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E9D5A6B2A66F5AA0045745A /* Assets.xcassets */; };
 		7E9D5A6F2A66F5AA0045745A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E9D5A6E2A66F5AA0045745A /* Preview Assets.xcassets */; };
+		7E9D5A782A66F61D0045745A /* AchievementChipView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D5A772A66F61D0045745A /* AchievementChipView.swift */; };
+		7E9D5A7A2A66F6340045745A /* AchievementsOverview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D5A792A66F6340045745A /* AchievementsOverview.swift */; };
+		7E9D5A7C2A66F65E0045745A /* AchievementDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D5A7B2A66F65E0045745A /* AchievementDetailView.swift */; };
+		7E9D5A7E2A66F6770045745A /* AchievementList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D5A7D2A66F6770045745A /* AchievementList.swift */; };
+		7E9D5A802A66F68D0045745A /* AchievementModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D5A7F2A66F68D0045745A /* AchievementModel.swift */; };
+		7E9D5A832A66F6BC0045745A /* StoreModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D5A822A66F6BC0045745A /* StoreModel.swift */; };
+		7E9D5A852A66F6CF0045745A /* StoreList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D5A842A66F6CF0045745A /* StoreList.swift */; };
+		7E9D5A872A66F6E00045745A /* StoreOverview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D5A862A66F6E00045745A /* StoreOverview.swift */; };
+		7E9D5A892A66F6F20045745A /* BudgetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D5A882A66F6F20045745A /* BudgetView.swift */; };
+		7E9D5A8C2A66F7110045745A /* ChargeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D5A8B2A66F7110045745A /* ChargeView.swift */; };
+		7E9D5A8E2A66F7220045745A /* ControlCenterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D5A8D2A66F7220045745A /* ControlCenterView.swift */; };
+		7E9D5A902A66F7340045745A /* BatteryHealthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D5A8F2A66F7340045745A /* BatteryHealthView.swift */; };
+		7E9D5A922A66F7470045745A /* ChargingStatisticsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D5A912A66F7470045745A /* ChargingStatisticsView.swift */; };
+		7E9D5A952A66F76C0045745A /* PodiumView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D5A942A66F76C0045745A /* PodiumView.swift */; };
+		7E9D5A9A2A66F7CE0045745A /* EarningsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D5A992A66F7CE0045745A /* EarningsView.swift */; };
+		7E9D5A9C2A66F7FB0045745A /* EcoImpactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D5A9B2A66F7FB0045745A /* EcoImpactView.swift */; };
+		7E9D5A9F2A66F82F0045745A /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D5A9E2A66F82F0045745A /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +36,23 @@
 		7E9D5A692A66F5AA0045745A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7E9D5A6B2A66F5AA0045745A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7E9D5A6E2A66F5AA0045745A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7E9D5A772A66F61D0045745A /* AchievementChipView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementChipView.swift; sourceTree = "<group>"; };
+		7E9D5A792A66F6340045745A /* AchievementsOverview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementsOverview.swift; sourceTree = "<group>"; };
+		7E9D5A7B2A66F65E0045745A /* AchievementDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementDetailView.swift; sourceTree = "<group>"; };
+		7E9D5A7D2A66F6770045745A /* AchievementList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementList.swift; sourceTree = "<group>"; };
+		7E9D5A7F2A66F68D0045745A /* AchievementModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementModel.swift; sourceTree = "<group>"; };
+		7E9D5A822A66F6BC0045745A /* StoreModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreModel.swift; sourceTree = "<group>"; };
+		7E9D5A842A66F6CF0045745A /* StoreList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreList.swift; sourceTree = "<group>"; };
+		7E9D5A862A66F6E00045745A /* StoreOverview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreOverview.swift; sourceTree = "<group>"; };
+		7E9D5A882A66F6F20045745A /* BudgetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BudgetView.swift; sourceTree = "<group>"; };
+		7E9D5A8B2A66F7110045745A /* ChargeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChargeView.swift; sourceTree = "<group>"; };
+		7E9D5A8D2A66F7220045745A /* ControlCenterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlCenterView.swift; sourceTree = "<group>"; };
+		7E9D5A8F2A66F7340045745A /* BatteryHealthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BatteryHealthView.swift; sourceTree = "<group>"; };
+		7E9D5A912A66F7470045745A /* ChargingStatisticsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChargingStatisticsView.swift; sourceTree = "<group>"; };
+		7E9D5A942A66F76C0045745A /* PodiumView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PodiumView.swift; sourceTree = "<group>"; };
+		7E9D5A992A66F7CE0045745A /* EarningsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EarningsView.swift; sourceTree = "<group>"; };
+		7E9D5A9B2A66F7FB0045745A /* EcoImpactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EcoImpactView.swift; sourceTree = "<group>"; };
+		7E9D5A9E2A66F82F0045745A /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +85,12 @@
 		7E9D5A662A66F5AA0045745A /* Charge2Change */ = {
 			isa = PBXGroup;
 			children = (
+				7E9D5A9D2A66F8160045745A /* Map */,
+				7E9D5A962A66F7870045745A /* Earnings */,
+				7E9D5A932A66F7550045745A /* Leaderboard */,
+				7E9D5A8A2A66F7020045745A /* Control Center */,
+				7E9D5A812A66F6AC0045745A /* Store */,
+				7E9D5A762A66F5FF0045745A /* Achievements */,
 				7E9D5A672A66F5AA0045745A /* Charge2ChangeApp.swift */,
 				7E9D5A692A66F5AA0045745A /* ContentView.swift */,
 				7E9D5A6B2A66F5AA0045745A /* Assets.xcassets */,
@@ -65,6 +105,65 @@
 				7E9D5A6E2A66F5AA0045745A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		7E9D5A762A66F5FF0045745A /* Achievements */ = {
+			isa = PBXGroup;
+			children = (
+				7E9D5A772A66F61D0045745A /* AchievementChipView.swift */,
+				7E9D5A792A66F6340045745A /* AchievementsOverview.swift */,
+				7E9D5A7B2A66F65E0045745A /* AchievementDetailView.swift */,
+				7E9D5A7D2A66F6770045745A /* AchievementList.swift */,
+				7E9D5A7F2A66F68D0045745A /* AchievementModel.swift */,
+			);
+			path = Achievements;
+			sourceTree = "<group>";
+		};
+		7E9D5A812A66F6AC0045745A /* Store */ = {
+			isa = PBXGroup;
+			children = (
+				7E9D5A822A66F6BC0045745A /* StoreModel.swift */,
+				7E9D5A842A66F6CF0045745A /* StoreList.swift */,
+				7E9D5A862A66F6E00045745A /* StoreOverview.swift */,
+				7E9D5A882A66F6F20045745A /* BudgetView.swift */,
+			);
+			path = Store;
+			sourceTree = "<group>";
+		};
+		7E9D5A8A2A66F7020045745A /* Control Center */ = {
+			isa = PBXGroup;
+			children = (
+				7E9D5A8B2A66F7110045745A /* ChargeView.swift */,
+				7E9D5A8D2A66F7220045745A /* ControlCenterView.swift */,
+				7E9D5A8F2A66F7340045745A /* BatteryHealthView.swift */,
+				7E9D5A912A66F7470045745A /* ChargingStatisticsView.swift */,
+			);
+			path = "Control Center";
+			sourceTree = "<group>";
+		};
+		7E9D5A932A66F7550045745A /* Leaderboard */ = {
+			isa = PBXGroup;
+			children = (
+				7E9D5A942A66F76C0045745A /* PodiumView.swift */,
+			);
+			path = Leaderboard;
+			sourceTree = "<group>";
+		};
+		7E9D5A962A66F7870045745A /* Earnings */ = {
+			isa = PBXGroup;
+			children = (
+				7E9D5A992A66F7CE0045745A /* EarningsView.swift */,
+				7E9D5A9B2A66F7FB0045745A /* EcoImpactView.swift */,
+			);
+			path = Earnings;
+			sourceTree = "<group>";
+		};
+		7E9D5A9D2A66F8160045745A /* Map */ = {
+			isa = PBXGroup;
+			children = (
+				7E9D5A9E2A66F82F0045745A /* MapView.swift */,
+			);
+			path = Map;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +236,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7E9D5A872A66F6E00045745A /* StoreOverview.swift in Sources */,
+				7E9D5A7A2A66F6340045745A /* AchievementsOverview.swift in Sources */,
+				7E9D5A9C2A66F7FB0045745A /* EcoImpactView.swift in Sources */,
+				7E9D5A832A66F6BC0045745A /* StoreModel.swift in Sources */,
+				7E9D5A7C2A66F65E0045745A /* AchievementDetailView.swift in Sources */,
+				7E9D5A952A66F76C0045745A /* PodiumView.swift in Sources */,
+				7E9D5A9A2A66F7CE0045745A /* EarningsView.swift in Sources */,
+				7E9D5A8C2A66F7110045745A /* ChargeView.swift in Sources */,
+				7E9D5A8E2A66F7220045745A /* ControlCenterView.swift in Sources */,
+				7E9D5A852A66F6CF0045745A /* StoreList.swift in Sources */,
 				7E9D5A6A2A66F5AA0045745A /* ContentView.swift in Sources */,
+				7E9D5A7E2A66F6770045745A /* AchievementList.swift in Sources */,
+				7E9D5A782A66F61D0045745A /* AchievementChipView.swift in Sources */,
+				7E9D5A802A66F68D0045745A /* AchievementModel.swift in Sources */,
 				7E9D5A682A66F5AA0045745A /* Charge2ChangeApp.swift in Sources */,
+				7E9D5A9F2A66F82F0045745A /* MapView.swift in Sources */,
+				7E9D5A902A66F7340045745A /* BatteryHealthView.swift in Sources */,
+				7E9D5A892A66F6F20045745A /* BudgetView.swift in Sources */,
+				7E9D5A922A66F7470045745A /* ChargingStatisticsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
